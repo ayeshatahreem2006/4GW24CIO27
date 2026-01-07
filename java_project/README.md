@@ -1,4 +1,4 @@
-#  DSA Contact Management System (Java)
+#  Contact Management System
 
 A simple **console-based Contact Management System** implemented in **Java**, designed to demonstrate the use of core **Data Structures and Algorithms (DSA)** such as **Stack**, **Queue**, **ArrayList**, and **Linear Search**.
 
