@@ -1,10 +1,10 @@
-# 📇 DSA Contact Management System (Java)
+#  DSA Contact Management System (Java)
 
 A simple **console-based Contact Management System** implemented in **Java**, designed to demonstrate the use of core **Data Structures and Algorithms (DSA)** such as **Stack**, **Queue**, **ArrayList**, and **Linear Search**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  **Add Contacts** using Stack (LIFO)
 -  **View Latest Contact** using Stack Peek
@@ -15,7 +15,7 @@ A simple **console-based Contact Management System** implemented in **Java**, de
 
 ---
 
-## 🧠 Data Structures Used
+## Data Structures Used
 
 | Data Structure | Purpose |
 |----------------|--------|
@@ -26,7 +26,7 @@ A simple **console-based Contact Management System** implemented in **Java**, de
 
 ---
 
-## 🏗️ Class Structure
+##  Class Structure
 
 ### `Contact` Class
 Stores contact information:
@@ -43,19 +43,7 @@ Contains:
 - Search and display functions
 
 ---
-
-##  Menu Options
-
-```text
-1. Push Contact (Stack)
-2. Peek Contact (Stack)
-3. Pop Contact (Stack)
-4. Dequeue Message (Queue)
-5. Search Contact (Linear Search)
-0. Exit
----
-
-🧪 ### Example Operations
+## Example Operations
 
 Insert a contact → stored in Stack, Queue, and List
 
@@ -67,7 +55,7 @@ Dequeue → sends message to oldest contact
 
 Search → finds contact by ID
 
-🎯 Learning Outcomes
+## Learning Outcomes
 
 Practical implementation of Stack, Queue, and ArrayList
 
@@ -76,3 +64,17 @@ Understanding LIFO and FIFO
 Applying Linear Search
 
 Building menu-driven Java programs
+
+
+## Author
+Ayesha Tahreem
+
+- LinkedIn: www.linkedin.com/in/ayesha-tahreem-63190a337  
+- Email: ayeshatahreem1983@gmail.com
+- GitHub: https://github.com/your-github-username  
+
+Developed for DSA learning and practice using Java.
+
+## License
+
+This project is open for educational use and modification.
